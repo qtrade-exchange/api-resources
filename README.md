@@ -32,3 +32,9 @@ If you'd like to add a resource to this list just make a PR. Resources must be q
  - [CoinPaprika](https://coinpaprika.com/exchanges/qtrade/)
  - [LiveCoinWatch](https://www.livecoinwatch.com/exchange/qtrade)
 
+# Portfolio Tracking Apps
+ - [Delta App](https://delta.app/)
+ - [Blockfolio App](https://blockfolio.com/)
+
+# Cybersecurity analysis
+ - [Cer.live](https://cer.live/)
