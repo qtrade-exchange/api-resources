@@ -15,6 +15,7 @@ If you'd like to add a resource to this list just make a PR. Resources must be q
 ## Wrappers
 
 - [Official Python API client](https://github.com/qtrade-exchange/qtrade-py-client) - The official Python 3 client
+- [Unofficial Go API client](https://github.com/Henelik/qtrade-api-go) - Created and maintained by Kelyn Crandall
 - [CCXT](http://ccxt.trade/) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
 
 ## Scripts
